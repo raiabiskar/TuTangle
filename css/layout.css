@@ -1,0 +1,83 @@
+.container{
+    background: gray;
+    width: 1100px;
+    margin: 0 auto;
+
+}
+.header-wrapper{
+    background: red;
+}
+.navbar-wrapper{
+    background: blue;
+}
+.content-wrapper{
+    background: greenyellow;
+    
+}
+.footer-wrapper{
+    background: lightcoral;
+}
+.logo-searchbar-wrapper{
+   /* background: whitesmoke; */
+    float: left;
+    width: 800px;
+    /* border: 1px dashed black; */
+}
+.logo-wrapper{
+    width: 300px;
+    float: left;
+    /* background: limegreen; */
+    font-size: 30pt;
+    border: 1px dashed black;
+}
+.searchbox-wrapper{
+    width: 500px;
+    float: right;
+    
+    /*background: pink;*/
+    font-size: 30pt;
+    border: 1px dashed black;
+}
+.user-info-wrapper{
+   /* background: gold;
+   */    
+    width: 300px;
+    float: right;
+    font-size: 30pt;
+    border: 1px dashed black;
+}
+.navbar-child-list-wrapper{
+    /* background: turquoise */
+    width: 700px;
+    border: 1px dashed black;
+    float: left;
+}
+.navbar-detail-wrapper{
+    /* background: brown; */
+    width: 400px;
+    border: 1px dashed black;
+    float: right;
+}
+.left-sidebar-wrapper{
+    /* background: lightgreen; */
+    float: left;
+    width: 350px;
+    font-size: 30pt;
+}
+.content-main-wrapper{
+    background: white;
+    float: right;
+    width: 400px;
+    font-size: 30pt;
+}
+.right-sidebar-wrapper{
+    background: darkslateblue;
+    float: right;
+    width: 350px;
+    font-size: 30pt;
+}
+.left-content-wrapper{
+    /* background: grey; */
+    float: left;
+    width: 750px;
+}
